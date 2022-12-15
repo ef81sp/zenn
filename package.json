@@ -1,0 +1,23 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ef81sp/zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ef81sp/zenn/issues"
+  },
+  "homepage": "https://github.com/ef81sp/zenn#readme",
+  "devDependencies": {
+    "zenn-cli": "^0.1.134"
+  }
+}
